@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/ea4656d3450f43b382e2725873a6e3fd/artifacts
+end_time: 1636711382729
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: ea4656d3450f43b382e2725873a6e3fd
+run_uuid: ea4656d3450f43b382e2725873a6e3fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1636711356359
+status: 3
+tags: []
+user_id: pranjalbhardwaj

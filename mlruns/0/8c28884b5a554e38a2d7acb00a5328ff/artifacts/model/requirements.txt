@@ -1,0 +1,6 @@
+mlflow
+cloudpickle==2.0.0
+pillow==8.4.0
+scikit-learn==1.0.1
+scipy==1.7.2
+tensorflow==2.7.0

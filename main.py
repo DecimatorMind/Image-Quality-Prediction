@@ -5,11 +5,15 @@ from RandomForestClassifer import *
 from DescisionTreeClassifier import *
 from GradientBoost import *
 from NeuralNetwork import *
+from Model_Test import *
 print("Running main.py")
-sentiment_analysis()
+# sentiment_analysis()
 # perceptron()
 # adaboost()
 # randomforestclassifier()
 # gradientboost()
 # decisiontree()
 # neuralnetwork()
+run_sentiment_model()
+print("Enter the directory of the files")
+
